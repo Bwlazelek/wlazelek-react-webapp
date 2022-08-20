@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "GOTHEM";
+  src: url("../public/fonts/Gotham-Rounded-Light_21020.ttf");
+}
+
