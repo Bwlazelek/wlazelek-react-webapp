@@ -24,6 +24,12 @@ plugins:{
       '6xl': '4rem',
       '7xl': '5rem',
     },
+    colors: {
+      'whiter': '#FFFFFF',
+      'jet': '#333333',
+      'turquoise': '#48E5C2',
+      'sand': '#F3D3BD',
+    },
     extend: {},
   },
   plugins: [],
